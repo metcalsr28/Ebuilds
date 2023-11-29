@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+    <maintainer type="person">
+        <email>gustavotcparreira@gmail.com</email>
+        <name>Gustavo Parreira</name>
+    </maintainer>
+    <upstream>
+        <remote-id type="github">Gustash/Hyprshot</remote-id>
+    </upstream>
+    <longdescription lang="en">
+        Hyprshot is a utility designed for easily taking screenshots in the Hyprland Wayland compositor using the mouse. It integrates with various system tools to provide a seamless screenshot experience in a Wayland environment.
+    </longdescription>
+</pkgmetadata>
+
