@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+    <maintainer type="person">
+	<email>metcalsr@gmail.com</email>
+        <name>Steve Metcalf</name>
+    </maintainer>
+    
+    <longdescription>
+	Gazou is a Japanese and Chinese OCR application written in C++. It utilizes image processing, and other parameters to improve the accuracy.
+    </longdescription>
+
+    <upstream>
+        <remote-id type="github">metcalsr28/gazou_wayland</remote-id>
+        <!-- Add more remote-ids if the source code is hosted on multiple platforms -->
+    </upstream>
+</pkgmetadata>
+
